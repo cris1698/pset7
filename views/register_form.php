@@ -17,7 +17,7 @@
             <input class="form-control" name="confirmation" placeholder="confirmation" type="password"/>
         </div>
         <div class="form-group">
-            <button class="btn btn-default" type="register">
+            <button class="btn btn-default" type="register" style ="color: #2BCB8B">
                 <span aria-hidden="true" class="glyphicon glyphicon-log-in"></span>
                 register 
             </button>
