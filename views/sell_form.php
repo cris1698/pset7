@@ -12,7 +12,10 @@
             </select>
         </div>
         <div class="form-group">
-            <button " class="btn btn_default" type= "submit" > Sell </button>
+            <input autocomplete="off" autofocus class="form-control" name="shares" placeholder="shares" type="text"/>
+        </div>
+        <div class="form-group">
+            <button " class="btn btn_default" type= "submit" "> Sell </button>
         </div>
     </fieldset>
 </form>>
