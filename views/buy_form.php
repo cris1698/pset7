@@ -2,7 +2,7 @@
 <form action="buy.php" method="post">
     <fieldset>
         <div class="form-group">
-            <input autocomplete="off" autofocus class="form-control" name="symbol" placeholder="symbol" type="text"/>
+            <input autocomplete="off" autofocus class="form-control" value="<?= $symbol_name ?>"  name="symbol" placeholder="symbol" type="text"/>
         </div>
         <div class="form-group">
             <input autocomplete="off" autofocus class="form-control" name="shares" placeholder="shares" type="text"/>
