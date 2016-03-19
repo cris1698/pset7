@@ -12,7 +12,7 @@
     </thead>
 
 
-    <tbody>
+    <tbody style ="color: #613CF7">
     <?php
 	    foreach ($table as $row)	
         {   

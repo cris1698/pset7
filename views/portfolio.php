@@ -18,7 +18,7 @@
         </tr>
     </thead>
 
-    <tbody>
+    <tbody style ="color: #613CF7">
         <?php
 	        foreach ($positions as $position)
             {   
