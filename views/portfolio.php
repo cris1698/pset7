@@ -1,3 +1,4 @@
+<body style="background-color:#BCE8F9">
     <h1><?php
     $name= CS50::query("SELECT name FROM users WHERE id = ?", $_SESSION["id"]);
     $name= $name[0]["name"];

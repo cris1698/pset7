@@ -1,3 +1,4 @@
+<body style="background-color:#BCE8F9">
 <form action="quote.php" method="post">
     <fieldset>
         <div class="form-group">

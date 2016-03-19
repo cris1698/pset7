@@ -1,3 +1,4 @@
+<body style="background-color:#BCE8F9">
 <table class="table table-striped">
 
     <thead>
