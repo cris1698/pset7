@@ -1,4 +1,8 @@
-
+    <h1><?php
+    $name= CS50::query("SELECT name FROM users WHERE id = ?", $_SESSION["id"]);
+    $name= $name[0]["name"];
+    print("Hi, ". ($name));
+    ?></h1> 
 <h1>You have: </h1> 
 <h1 style="color:#3385ff;"><u>$<?= number_format($cash,2) ?></u></h1>
 <table class="table table-striped">

@@ -1,6 +1,12 @@
 <form action="register.php" method="post">
     <fieldset>
         <div class="form-group">
+            <input autocomplete="off" autofocus class="form-control" name="name" placeholder="name" type="text"/>
+        </div>
+        <div class="form-group">
+            <input autocomplete="off" autofocus class="form-control" name="lastname" placeholder="lastname" type="text"/>
+        </div>
+        <div class="form-group">
             <input autocomplete="off" autofocus class="form-control" name="username" placeholder="Username" type="text"/>
         </div>
         <div class="form-group">
